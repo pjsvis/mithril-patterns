@@ -1,5 +1,6 @@
 # links
 
+- [the mithril diaries](https://github.com/pakx/the-mithril-diaries/wiki)
 - [mithril types](https://www.npmjs.com/package/@types/mithril)
 - [create-mithril-app](https://github.com/highmountaintea/create-mithril-app)
 - [mithril hooks](https://github.com/ArthurClemens/mithril-hooks)
