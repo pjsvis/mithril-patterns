@@ -1,5 +1,6 @@
 # links
 
+- [construct ui](https://github.com/vrimar/construct-ui) a mithril ui library
 - [the mithril diaries](https://github.com/pakx/the-mithril-diaries/wiki)
 - [mithril types](https://www.npmjs.com/package/@types/mithril)
 - [create-mithril-app](https://github.com/highmountaintea/create-mithril-app)
