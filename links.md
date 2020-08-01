@@ -1,5 +1,6 @@
 # links
 
+- [mithril rising](https://mike-ward.net/2018/05/09/mithril-rising/) blog
 - [construct ui](https://github.com/vrimar/construct-ui) a mithril ui library
 - [the mithril diaries](https://github.com/pakx/the-mithril-diaries/wiki)
 - [mithril types](https://www.npmjs.com/package/@types/mithril)
