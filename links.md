@@ -9,6 +9,7 @@
 - [mithril dialogs](https://www.npmjs.com/package/dialogic-mithril)
 - [mithril markdown](https://www.npmjs.com/package/mithril-markdown)
 - [mithril treeview](https://www.npmjs.com/package/mithril-tree-component)
+- [cross-browser.com](https://www.cross-browser.com) Home of X Library
 
 
 
