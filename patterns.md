@@ -5,7 +5,7 @@
 - [mithril docs](https://mithril.js.org)
 - [learn mithril blog](http://lhorie.github.io/mithril-blog/index.html)
 - [mithril template converter](https://arthurclemens.github.io/mithril-template-converter/index.html)
-
+- [prettier hyperscript formatting](https://github.com/prettier/prettier/issues/1949) with perl workaround ```perl -i -0777pe 's/\bm\(\s+/m(/gs'```
 
 ### patterns
 
