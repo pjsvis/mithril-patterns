@@ -1,9 +1,16 @@
 ## mithril patterns
 
+### links
 - [learn mithril blog](http://lhorie.github.io/mithril-blog/index.html)
+- [api](https://mithril.js.org)
+- [mithril template converter](https://arthurclemens.github.io/mithril-template-converter/index.html)
+
+
+### patterns
+
 - use pragma to force jsx to use m
 
-```javascript
+```js
 /* @jsx m */
 ```
 
